@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ParthSingh0306?tab=repositories](https://github.com/ParthSingh0306?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ParthSingh0306?tab=repositories)
 
 - 📫 How to reach me **parth3743@gmail.com**
 
@@ -30,6 +30,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsingh0306&" alt="parthsingh0306" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsingh0306&" alt="parthsingh0306" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthsingh0306&show_icons=true&locale=en" alt="parthsingh0306" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsingh0306&show_icons=true&locale=en&layout=compact" alt="parthsingh0306" /></p>
+<h3 align="center"> 📊 My GitHub Stats  </h3>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsingh0306&" alt="parthsingh0306" /></p>
+
+<span align="center">
+  
+<div align="center">
+  
+  [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthSingh0306&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+  
+<div align = "center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSingh0306&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
